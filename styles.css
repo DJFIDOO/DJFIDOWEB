@@ -101,7 +101,9 @@ table {
 .fechas {
     height: 100%;
 }
-
+.fechasu {
+    height: 50%;
+}
 td {
     text-align: center;
     padding-bottom: 2%;
